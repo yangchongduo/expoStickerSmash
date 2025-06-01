@@ -148,7 +148,7 @@ import { Text, View, StyleSheet } from 'react-native';
 export default function AboutScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>indexupdate 测试11112323232323 screen</Text>
+      <Text style={styles.text}>indexupdate 测试1111232323232323232323232323 screen</Text>
     </View>
   );
 }
