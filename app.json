@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.ycd.StickerSmash",
+      "bundleIdentifier": "com.yourname.stickersmash",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -21,7 +21,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.ycd.StickerSmash"
+      "package": "com.yourname.stickersmash"
     },
     "web": {
       "bundler": "metro",
@@ -49,6 +49,12 @@
         "projectId": "b896b7f8-4d56-4574-bb94-54f0f84da6e6"
       }
     },
-    "owner": "ycd"
+    "owner": "ycd",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b896b7f8-4d56-4574-bb94-54f0f84da6e6"
+    }
   }
 }
